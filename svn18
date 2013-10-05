@@ -1,0 +1,7 @@
+./configure \
+--prefix=/opt/local \
+--disable-mod-activation \
+--with-apr=/opt/local/bin/apr-1-config \
+--with-apr-util=/opt/local/bin/apu-1-config \
+--with-serf=/opt/local \
+--with-sqlite=/opt/local \
