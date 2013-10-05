@@ -1,0 +1,6 @@
+./configure \
+--prefix=/opt/local \
+--with-apr=/opt/local/bin/apr-1-config \
+--with-openssl=/usr \
+--with-expat=/usr/local \
+--with-iconv=/usr/local
