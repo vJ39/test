@@ -1,0 +1,6 @@
+./configure \
+--prefix=/opt/local \
+--enable-static \
+--enable-nonfree \
+--enable-version3 \
+--enable-gpl \
